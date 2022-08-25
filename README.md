@@ -2,4 +2,7 @@
 0x03_vi
 /root/0x03_vi/ctrl+i
 /root/0x03_vi/ctrl+v
+dd
+3dd
+$dd
 
